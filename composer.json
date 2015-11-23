@@ -2,7 +2,7 @@
     "name": "Yall1963/derp-dangerzone",
     "autoload": {
         "psr-0" : {
-            "Yall1963\\DangerZone" : "src"
+            "Weaverryan\\DangerZone" : "src"
         }
     }
 }
